@@ -2,9 +2,9 @@
 
 🔗 I am a blockchain and backend developer with experience in creating secure and scalable applications using cutting-edge technologies.
 
-🌐 My expertise lies in developing backend systems for decentralized applications using blockchain technology. I have experience working with various blockchain platforms like Ethereum, Hyperledger Fabric, and EOSIO.
+🌐 My expertise lies in developing backend systems for decentralized applications using blockchain technology. I have experience working with various blockchain platforms like Ethereum, Chainlink, Moralis, Alchemy, Hardhat, Foundry.
 
-💻 My skill set includes proficiency in programming languages like Java, Python, and Solidity, as well as experience with various database management systems and server-side technologies.
+💻 My skill set includes proficiency in programming languages like PHP, Laravel, NodeJs and Solidity, as well as experience with various database management systems and server-side technologies.
 
 🔒 I am passionate about creating secure and decentralized applications that can provide value to the users while maintaining transparency and trust.
 
