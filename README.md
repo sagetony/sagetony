@@ -16,7 +16,7 @@
 
 | **Overall**         | **High risk** | **Medium risk** | **Low Risks** |
 |---------------------|---------------|-----------------|---------------|
-| 14 High/Medium      | 10 Highs      | 5 Mediums       | 6 Lows        |
+| 16 High/Medium      | 11 Highs      | 4 Mediums       | 1 Lows        |
 
 ## CodeHawks
 
