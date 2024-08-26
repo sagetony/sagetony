@@ -22,7 +22,7 @@
 
 | **Contest**          | **High risk** | **Medium risk** | **Low risk** | **Security Report** | **Ranking** | **Team Name** |
 |----------------------|---------------|-----------------|--------------|---------------------|-------------|---------------|
-| Thunder Loan         | 1             | 0               | -            | [Report](#)          | -           | -             |
+| The Predicter        | 3             | 1               | -            | [Report](https://github.com/sagetony/audit/blob/master/solo/the-predicter.md)          | -           | -             |
 | Santa's List         | 3             | 0               | -            | [Report](#)          | -           | -             |
 | Baba Marta           | 2             | 1               | -            | [Report](#)          | -           | -             |
 | MorpheusAI           | -             | -               | 1            | [Report](#)          | -           | -             |
